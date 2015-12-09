@@ -20,10 +20,9 @@
     "yeoman-generator",
     "web",
     "app",
-    "bootstrap",
-    "bootstrap 4",
+    "fundation",
+    "foundation 6",
     "front-end",
-    "jquery",
     "grunt"
   ],
   "dependencies": {
